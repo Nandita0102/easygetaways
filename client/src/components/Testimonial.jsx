@@ -18,7 +18,7 @@ const Testimonial = () => {
         { name: "Gracie Rodriguez", 
           location: "Indore, Madhya Pradesh",
           image: assets.testimonial_image_1, 
-          testimonial: "As a frequent traveler, I need reliability and style. Vroom delivers both—whether it’s a Mercedes S-Class for client meetings or a Range Rover for weekend getaways. The app’s VIP support saves me hours." 
+          testimonial: "As a frequent traveler, I need reliability and style. EasyGetaways delivers both—whether it’s a Mercedes S-Class for client meetings or a Range Rover for weekend getaways. The app’s VIP support saves me hours." 
         }
         
     ];
@@ -26,7 +26,7 @@ const Testimonial = () => {
     
     <div className="py-28 px-6 md:px-16 lg:px-24 xl:px-44">
 
-        <Title title= "What Our Customers Say" subTitle="Discover why wise travellers choose Vroom for their luxury tarvels around the world." />
+        <Title title= "What Our Customers Say" subTitle="Discover why wise travellers choose EasyGetaways for their luxury tarvels around the world." />
             
 
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 mt-18">
